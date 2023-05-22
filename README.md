@@ -19,3 +19,7 @@
 - Liskov substitution Principle (LSP), 
 - Interface Segregation Principle (ISP), 
 - Dependency Inversion Principle (DIP).
+# N-tier architecture 
+- Presentaion Layer
+- Buisness Logic Layer
+- Database Logic Layer
